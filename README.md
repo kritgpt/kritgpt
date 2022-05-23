@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Qiskit and JavaScript.
-- 👯 I’m looking to collaborate on web dev and quantum computing projects.
-- 📫 How to reach me: <a href="https://twitter.com/gptkrit">Twitter</a> | <a href="https://www.linkedin.com/in/kriti-g-6a7315211/">LinkedIn</a>
+- I’m currently learning Qiskit and JavaScript.
+- Comp Sci student at IIIT Hyderabad.
+- How to reach me: <a href="https://twitter.com/gptkrit">Twitter</a> | <a href="https://www.linkedin.com/in/kriti-g-6a7315211/">LinkedIn</a>
 
 <!--
 **kritgpt/kritgpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
