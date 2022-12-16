@@ -1,6 +1,5 @@
 ### Hi there 👋
-- I’m currently learning Qiskit and JavaScript.
-- Comp Sci student at IIIT Hyderabad.
+- I'm a Comp Sci student at IIIT Hyderabad.
 - How to reach me: <a href="https://twitter.com/gptkrit">Twitter</a> | <a href="https://www.linkedin.com/in/kriti-g-6a7315211/">LinkedIn</a>
 
 <!--
